@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  overflow: hidden;
+   background-image: url("../imgs/background.jpg");
+  color:white;
+}
+
+#navbar1{
+  color:#FFFFFF;
+
+
+}
+
+.btn-simple {
+    color: white;
+
+}
+.btn-simple:hover, .btn-simple:focus, .btn-simple:active, .btn-simple.active, .open>.dropdown-toggle.btn-simple {
+    color: black;
+    background-color: black;
+    border-color: black; /*set the color you want here*/
+}
+#container1{
+        max-width: 500px;
+    }
